@@ -2,8 +2,6 @@
 
 # RaceDayApi — RaceDay Event Management System
 
-**PROG6212 — Programming 2B | Part 2: Portfolio of Evidence**
-
 A RESTful API for the RaceDay event management system, developed using **ASP.NET Core Web API (.NET 8), Entity Framework Core 8, and SQL Server**.
 
 The API supports user authentication, event and category management, participant enrolments, and race result tracking. It implements role-based access control for Organisers and Participants and provides interactive API documentation through Swagger UI.
@@ -256,8 +254,6 @@ RaceDayApi/
 └── RaceDayApi.sln
 ```
 
-*The structure above represents the intended project layout. Ensure the names match the actual files in your repository.*
-
 ## Authentication and Security
 
 ### Password Security
@@ -294,10 +290,6 @@ The workflow includes:
 3. Restoring NuGet dependencies.
 4. Building the project in Release configuration.
 
-To check the build status, open the repository on GitHub and select the **Actions** tab.
-
-
-
 ## References
 
 Coronel, C. and Morris, S. (2019) *Database Systems: Design, Implementation, & Management*. 13th edn. Boston: Cengage Learning.
@@ -312,8 +304,5 @@ Microsoft (2024) *Entity Framework Core documentation*. Microsoft Learn. Availab
 
 - **Module:** PROG6212 — Programming 2B
 - **Institution:** Rosebank International
-- **Portfolio:** Part 2 — API Build
-- **Repository:** [RaceDayApi on GitHub](https://github.com/Ndamulelo15/RaceDayApi)
-
 ---
 
