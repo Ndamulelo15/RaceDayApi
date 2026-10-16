@@ -290,6 +290,9 @@ The workflow includes:
 3. Restoring NuGet dependencies.
 4. Building the project in Release configuration.
 
+<img width="1354" height="639" alt="Screenshot 2026-10-16 204644" src="https://github.com/user-attachments/assets/87237a80-64c8-489e-bfd3-823bcc574a8c" />
+
+
 ## References
 
 Coronel, C. and Morris, S. (2019) *Database Systems: Design, Implementation, & Management*. 13th edn. Boston: Cengage Learning.
